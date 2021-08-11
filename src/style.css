@@ -1,0 +1,26 @@
+body{
+  background: #9A04E5;
+  font-family: 'Emilys Candy', cursive;
+  text-align: center;
+  transform: translateY(50%);
+}
+
+p {
+  color: #F5D4F8;
+  font-size: 50px;
+}
+
+input {
+  font-size: 50px;
+  background-color: #D6A7EE;
+  border: none;
+  text-align: center;
+  color: #6D6875;
+  font-family: 'Roboto', sans-serif;
+  width: auto;
+  border-radius: 10px;
+}
+
+input:focus {
+  outline: none;
+}
